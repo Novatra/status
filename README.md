@@ -4,7 +4,7 @@ This repository contains the open-source uptime monitor and status page for [Nov
 
 [![Uptime CI](https://github.com/Novatra/uptimer/workflows/Uptime%20CI/badge.svg)](https://github.com/Novatra/upptime/actions?query=workflow%3A%22Uptime+CI%22)
 [![Response Time CI](https://github.com/Novatra/uptimer/workflows/Response%20Time%20CI/badge.svg)](https://github.com/Novatra/upptime/actions?query=workflow%3A%22Response+Time+CI%22)
-[![Graphs CI](https://github.com/Novatra/upptime/uptimer/Graphs%20CI/badge.svg)](https://github.com/Novatra/upptime/actions?query=workflow%3A%22Graphs+CI%22)
+[![Graphs CI](https://github.com/Novatra/uptimer/uptimer/Graphs%20CI/badge.svg)](https://github.com/Novatra/upptime/actions?query=workflow%3A%22Graphs+CI%22)
 [![Static Site CI](https://github.com/Novatra/uptimer/workflows/Static%20Site%20CI/badge.svg)](https://github.com/Novatra/upptime/actions?query=workflow%3A%22Static+Site+CI%22)
 [![Summary CI](https://github.com/Novatra/uptimer/workflows/Summary%20CI/badge.svg)](https://github.com/Novatra/upptime/actions?query=workflow%3A%22Summary+CI%22)
 
