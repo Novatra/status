@@ -16,7 +16,7 @@ status-website:
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   # baseUrl: /your-repo-name
   cname: status.novatra.in
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
+  logoUrl: https://raw.githubusercontent.com/Novatra/assets/refs/heads/main/logos/novatra.png
   favicon: https://novatra.in/static/imgs/favicon.ico
   name: Novatra Status Page
   navbar:
