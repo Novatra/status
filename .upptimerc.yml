@@ -20,14 +20,8 @@ status-website:
   favicon: https://novatra.in/static/imgs/favicon.ico
   name: Novatra Status Page
   navbar:
-    - title: Status
-      href: /
-    - title: Novatra
+    - title: Visit Site
       href: https://novatra.in
-    - title: GitHub
-      href: https://github.com/Novatra
-    - title: About
-      href: https://novatra.in/about
 workflowSchedule:
   uptime: "*/15 * * * *"
 # Upptime also supports notifications, assigning issues, and more
