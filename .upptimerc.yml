@@ -17,6 +17,7 @@ status-website:
   # baseUrl: /your-repo-name
   cname: status.novatra.in
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
+  favicon: https://novatra.in/static/imgs/favicon.ico
   name: Novatra Status Page
   navbar:
     - title: Status
