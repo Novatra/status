@@ -28,6 +28,7 @@ status-website:
       href: https://github.com/Novatra
     - title: About
       href: https://novatra.in/about
-      
+workflowSchedule:
+  uptime: "*/15 * * * *"
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
